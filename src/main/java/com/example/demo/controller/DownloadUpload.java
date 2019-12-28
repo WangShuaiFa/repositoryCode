@@ -17,7 +17,7 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
-
+//本地feature修改
 public class DownloadUpload {
     private static AuthTypeEnum authType = AuthTypeEnum.OBS;
 
